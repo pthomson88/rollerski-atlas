@@ -1,2 +1,3 @@
-name: hello world
+markdown: kramdown
 theme: jekyll-theme-cayman
+name: hello world
