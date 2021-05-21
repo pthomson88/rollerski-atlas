@@ -3,6 +3,7 @@ var div4iframe = document.createElement('div');
 div4iframe.id = "div4iframe";
 div4iframe.style.position = "relative";
 div4iframe.style.left = "50%";
+div4iframe.style.right = "50%";
 document.body.appendChild(div4iframe);
 
 // next up a map
