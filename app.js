@@ -1,16 +1,11 @@
-//start with a new div
-var div4iframe = document.createElement('div');
-div4iframe.id = "div4iframe";
-div4iframe.style.centre.margin = "auto";
-document.body.appendChild(div4iframe);
-
-// next up a map
-var mapUrl = 'https://www.google.com/maps/d/embed?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.87827418515526%2C-3.1336741860674344&z=12';
-// create the embedded map as an iframe
-var iframe = document.createElement('iframe');
-iframe.src = mapUrl;
-iframe.width = "600";
-iframe.height = "450";
-iframe.allowFullscreen = false;
-// add the iframe to the body of the document
-document.getElementById("div4iframe").appendChild(iframe);
+// functions for the button examples
+function mapFocus(url) {
+  document.getElementById("mainmap").src = url;
+  document.getElementById("button1").onclick = "mapUnFocus('https://www.google.com/maps/d/embed?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc')";
+  document.getElementById("button1").innerHTML = "Original View";
+}
+function mapUnFocus(url) {
+  document.getElementById("mainmap").src = url;
+  document.getElementById("button1").onclick = "mapFocus('https://www.google.com/maps/d/embed?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.89130019521464%2C-3.165987915639006&z=12')";
+  document.getElementById("button1").innerHTML = "Sheriffhall to Roslyn";
+}
