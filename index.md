@@ -1,9 +1,5 @@
 <!-- Header -->
-<header class="w3-container w3-grey w3-center" style="padding:128px 16px">
-  <h1 class="w3-margin w3-jumbo">
-    Scottish Rollerski Atlas
-  </h1>
-</header>
+#Scottish Rollerski Atlas
 
 Scroll down to see a description of routes. Click on the map to go to that route in Google Maps
 
