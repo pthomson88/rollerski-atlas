@@ -5,10 +5,10 @@ Scroll down to see a description of routes. Click on the map to go to that route
 
 | | Sheriffhall Park & ride to Roslyn Chapel |
 |---|---|
-| [![](/img/Sheriffhall-Roslyn-map.png#previewmap)](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.90462751573069%2C-3.104388772723885&z=14) | Great surface, zero traffic and almost 9km of undisturbed rollerskiing each way.
+| [![](/img/Sheriffhall-Roslyn-map.png#previewmap)](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.90462751573069%2C-3.104388772723885&z=14) | <p>Great surface, zero traffic and almost 9km of undisturbed rollerskiing each way.
 
 The final section into Roslin itself is more sketchy underfoot with a mix of gravel patches, potholes and speed bumps to contend with finishing with a short stretch along a residential road. However it's worth it to make it to the Chapel.
-
+</p>
  |
 
 | | Newhaven and Inverleith Park loop |
