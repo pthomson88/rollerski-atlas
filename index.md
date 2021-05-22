@@ -2,15 +2,9 @@
 
 Scroll down to see a description of routes. Click on the map to go to that route in Google Maps
 
-<div class="w3-container">
-  <a href="https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.90462751573069%2C-3.104388772723885&z=14">
-    <img src="/img/Sheriffhall-Roslyn-map.png" class="w3-circle" style="width:30%;">
-  </a>
- </div>
-
 
 | Sheriffhall Park & ride to Roslyn Chapel | Route Description |
 |---|---|
-| [![Sheriffhall to Roslyn](/img/Sheriffhall-Roslyn-map.png)](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.90462751573069%2C-3.104388772723885&z=14) | The quick brown fox jumped over the lazy dog |
+| [! <img src="/img/Sheriffhall-Roslyn-map.png" class="w3-circle" style="width:30%;"> ](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.90462751573069%2C-3.104388772723885&z=14) | The quick brown fox jumped over the lazy dog |
 |---|---|
 |Another Route | |
