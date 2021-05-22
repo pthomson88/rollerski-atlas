@@ -1,5 +1,5 @@
 <!-- Header -->
-# Scottish Rollerski Atlas
+# Mapped routes
 
 Scroll down to see a description of routes. Click on the map to go to that route in Google Maps
 
