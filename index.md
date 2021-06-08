@@ -1,7 +1,7 @@
 <!-- Header -->
 # Mapped rollerski routes
 
-Scroll down to see a description of routes. Click on the map to go to that route in Google Maps
+Scroll down to see a description of routes. Click on the map preview to go to that route (e.g. in Google maps or in Strava)
 
 ## Central 
 
