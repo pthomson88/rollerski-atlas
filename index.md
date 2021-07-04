@@ -5,7 +5,10 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 
 ## Central 
 
-<div class="slider-class"><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div></div>
+<div class="slider-class">
+  <div><h3>A</h3></div>
+  <div><h3>B</h3></div>
+</div>
 
 | | |
 |---|---|
