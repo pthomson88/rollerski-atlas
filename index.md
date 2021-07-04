@@ -3,7 +3,7 @@
 
 Scroll down to see a description of routes. Click on the map preview to go to that route (e.g. in Google maps or in Strava)
 
-## Central 
+## Scotland - Central 
 
 | | |
 |---|---|
@@ -13,7 +13,7 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 | | |
 | [![](/img/North-Inch-map.png#previewmap)](https://www.strava.com/routes/2846780550560433606) |  **The North Inch (Perth)** <br/><br/> Starting from the Bertha High School car park, this 15km loop takes in some lovely Perthshire scenery along the rivers Almond and Tay.<br/><br/>Mostly flat, with the exception of a long hill at the start/finish. Mostly the tarmac is great, but some sections are a bit rough underfoot. The furthest section consists of a 2.4 km loop, so it's easy to add a few laps here if you're looking for a bit more distance. Alternatively this section is near the centre of Perth, so makes a great coffee stop option.
 
-## Edinburgh 
+## Scotland - Edinburgh 
 
 | | |
 |---|---|
@@ -21,7 +21,7 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 | | |
 | [![](/img/Newhaven-Inverleith-map.png#previewmap)](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.97360532652161%2C-3.2108047317310384&z=14) | **Newhaven and Inverleith Park loop** <br/><br/>Starting and finishing at 5 Points on the Inner Tube, this loop works well in either direction.<br/><br/> Incorporates a long and flat section of good tarmac at Newhaven as well as a good hill suitable for ascending and descending on the quiet residential Craighleith hill avenue. From the bottom of the hill this loop passes through Inverleith park before rejoining the Inner Tube on the way back to 5 Points. |
 
-## Fife 
+## Scotland - Fife 
 
 | | |
 |---|---|
