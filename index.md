@@ -5,6 +5,8 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 
 ## Central 
 
+<div class="slider-class"><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div></div>
+
 | | |
 |---|---|
 | [<div class="slider-class"><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div></div>](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.88459382711969%2C-3.7607757949379628&z=11) |  **Airdrie-Bathgate cycle path** <br/><br/> A traffic free cycle path right through the middle of the central belt. <br/><br/> The path itself connects Armadale rail station with Caldercruix rail station, but it's easy enough to start from Bathgate to add a few extra kilometers. In total the route is about 20km. After Caldercruix, getting to Airdrie itself is probably feasible for the more adventurous rollerskier, but it's certainly not for the faint-hearted|
