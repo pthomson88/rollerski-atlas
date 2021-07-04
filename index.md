@@ -7,7 +7,7 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 
 | | |
 |---|---|
-| [![](/img/Bathgate-Caldercruix-map.png#previewmap)](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.88459382711969%2C-3.7607757949379628&z=11) |  **Airdrie-Bathgate cycle path** <br/><br/> A traffic free cycle path right through the middle of the central belt. <br/><br/> The path itself connects Armadale rail station with Caldercruix rail station, but it's easy enough to start from Bathgate to add a few extra kilometers. In total the route is about 20km. After Caldercruix, getting to Airdrie itself is probably feasible for the more adventurous rollerskier, but it's certainly not for the faint-hearted|
+| [<div class="slider-class"><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div><div>![](/img/Bathgate-Caldercruix-map.png#previewmap)</div></div>](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=55.88459382711969%2C-3.7607757949379628&z=11) |  **Airdrie-Bathgate cycle path** <br/><br/> A traffic free cycle path right through the middle of the central belt. <br/><br/> The path itself connects Armadale rail station with Caldercruix rail station, but it's easy enough to start from Bathgate to add a few extra kilometers. In total the route is about 20km. After Caldercruix, getting to Airdrie itself is probably feasible for the more adventurous rollerskier, but it's certainly not for the faint-hearted|
 | | |
 | [![](/img/Alloa-Dollar-map.png#previewmap)](https://www.google.com/maps/d/viewer?mid=1JsZ0qoeoCehcQnX9fXjmDTCpxYl9QLdc&ll=56.128985207139884%2C-3.7566912805302044&z=12) |  **Alloa to Dollar** <br/><br/> AKA Clackmannan Endurance!.<br/><br/> The section from Alloa to Menstrie is particularly nice here, as well as the upper road from Menstrie to Dollar.<br/><br/> If you're looking for a good start point try "The Pavillions" in Alloa. Also if you plan to try the section between Tillicoutry and Alloa beware as it's not that great for rollerskiing.|
 
@@ -26,3 +26,9 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 | [![](/img/Dunfermline-Halbeath-map.png#previewmap)](https://www.strava.com/routes/2836001716052111608) |  **Dunfermline loop from Halbeath Park & ride** <br/><br/> AKA FRSC rollerski tour route #1. A 9.5 km almost loop using the Halbeath P&R as a convenient meeting point (and a good practice area). <br/><br/> From the park & ride to Crossgates is not really passable, so the best start point is where the new cycle path begins on the other side of Crossgates. From here you have a gentle downhill with the majority of it good surface. However beware of sections that haven't had the final layer added. Eventually you'll get to a junction which takes you over the motorway into Dunfermline and onto the cycle paths around Dulloch. Keep going past Fife leisure park to get back the Halbeath. |
 
 [Know a great route not included? Submit it here! ](https://docs.google.com/forms/d/e/1FAIpQLSeY049rSMsJW_s8Hv0zb1Hd7U6BWlCM6sBZgndwLIzmijFpwg/viewform?usp=sf_link)
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.slider-class').slick();
+    });
+  </script>
