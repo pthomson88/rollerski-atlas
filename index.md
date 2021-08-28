@@ -29,5 +29,11 @@ Scroll down to see a description of routes. Click on the map preview to go to th
 |---|---|
 | [![](/img/Dunfermline-Halbeath-map.png#previewmap)](https://www.strava.com/routes/2861343369178963188) |  **Dunfermline loop from Halbeath Park & ride** <br/><br/> AKA FRSC rollerski tour route #1. A 9.5 km almost loop using the Halbeath P&R as a convenient meeting point (and a good practice area). <br/><br/> From the park & ride to Crossgates is not really passable, so the best start point is where the new cycle path begins on the other side of Crossgates. From here you have a gentle downhill with the majority of it good surface. However beware of sections that haven't had the final layer added. Eventually you'll get to a junction which takes you over the motorway into Dunfermline and onto the cycle paths around Dulloch. Keep going past Fife leisure park to get back the Halbeath. |
 
+## England - London 
+
+| | |
+|---|---|
+| [![](/img/Kensington-Hyde-Park-map.png#previewmap)](https://www.strava.com/routes/2862417843638295770) |  **Kensignton Gardens and Hyde Park Cycleways** <br/><br/> Hyde Park and Kensington gardens make a great location for rollerskiing. There are many ways around the stomping group of the London Hyde Park rollerski club and this 6.5km loop is just one <br/><br/> Beginning near to Kensington Palace, carefully avoid pedestrians on the paths past the Albert memorial. From here cross the road and join the new segregated cycleway to Hyde Park Corner. Continue following the cycle paths around the perimeter of Hyde Park back to the car park (where you might spot the famous rollerski.co.uk van). From here cross the bridge and re-enter Kensington gardens to make your way back to the start. |
+
 [Know a great route not included? Submit it here! ](https://docs.google.com/forms/d/e/1FAIpQLSeY049rSMsJW_s8Hv0zb1Hd7U6BWlCM6sBZgndwLIzmijFpwg/viewform?usp=sf_link)
 
